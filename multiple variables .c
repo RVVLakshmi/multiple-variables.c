@@ -1,3 +1,4 @@
+Write a c program to display multiple variables?
 #include<stdio.h>
 #include<stdio.h>
 Void main()
